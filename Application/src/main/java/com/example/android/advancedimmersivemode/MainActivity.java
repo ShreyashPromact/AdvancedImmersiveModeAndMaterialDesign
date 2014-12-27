@@ -42,6 +42,7 @@ public class MainActivity extends SampleActivityBase {
     // Whether the Log Fragment is currently shown
     private boolean mLogShown;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
