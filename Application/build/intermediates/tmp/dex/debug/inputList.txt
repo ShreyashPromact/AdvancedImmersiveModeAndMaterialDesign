@@ -1,0 +1,4 @@
+D:\AndroidStudioWorkspace\AdvancedImmersiveMode\Application\build\intermediates\classes\debug
+D:\AndroidStudioWorkspace\AdvancedImmersiveMode\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-2d3bd75f03feabf1d3a79fae011f9a5a577ebe90.jar
+D:\AndroidStudioWorkspace\AdvancedImmersiveMode\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-01d7c64061643c0221135820dcef5ec487907ce9.jar
+D:\AndroidStudioWorkspace\AdvancedImmersiveMode\Application\build\intermediates\pre-dexed\debug\classes-410471cafcb9c205059d243801fcbc1f3c9cdd18.jar
